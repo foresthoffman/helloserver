@@ -8,7 +8,7 @@ go get github.com/foresthoffman/helloserver
 ```bash
 go build main.go
 ```
-2. Add permission:
+2. Add permission (if need be):
 ```bash
 chmod u+x main
 ```
